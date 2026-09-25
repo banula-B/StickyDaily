@@ -1,0 +1,6 @@
+{
+  "name": "StickyDaily - Sticky Notes & Daily Checklist",
+  "description": "Desktop-style sticky notes with auto-renewing daily checklists, floating screen-stick mode, streak tracking, and customizable paper colors for your laptop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
